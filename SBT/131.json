@@ -1,0 +1,20 @@
+{
+    "name": "TON TALK Supporter \u2764\ufe0f",
+    "description": "You supported TON TALK channel. Together, we will build a better future for TON!",
+    "marketplace": "getgems.io",
+    "attributes": [
+        {
+            "trait_type": "Tier",
+            "value": "Supporter"
+        }
+    ],
+    "buttons": [
+        {
+            "uri": "https://t.me/TON_crypto_talks",
+            "label": "Subscribe"
+        }
+    ],
+    "image": "https://cemorum.github.io/metadata_storage/SBT_support.png",
+    "content_type": "video/mp4",
+    "content_url": "https://cemorum.github.io/metadata_storage/SBT_support.mp4"
+}
