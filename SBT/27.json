@@ -1,0 +1,14 @@
+{
+    "name": "TON TALK Supporter \u2764\ufe0f",
+    "description": "You supported TON TALK channel. Together we will win.",
+    "marketplace": "getgems.io",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Supporter"
+        }
+    ],
+    "image": "https://cemorum.github.io/metadata_storage/SBT_support.png",
+    "content_type": "video/mp4",
+    "content_url": "https://cemorum.github.io/metadata_storage/SBT_support.mp4"
+}
